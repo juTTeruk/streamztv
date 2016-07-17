@@ -1,3 +1,4 @@
-3 
+4 
 |||
-Welcome to the streamz message app, hello karen LOVE YOU XXX
+Welcome to the streamz messaging addon.
+Line 2
