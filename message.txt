@@ -1,4 +1,6 @@
-4 
+5 
 |||
 Welcome to the streamz messaging addon.
 Line 2
+Line 3
+Line 4
