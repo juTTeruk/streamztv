@@ -1,4 +1,4 @@
-9 
+10 
 |||
 Welcome to the streamz messaging addon.
 We will use this facility to announce any upcoming build updates or important news .......
