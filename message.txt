@@ -1,16 +1,12 @@
-11
+12
 |||
 Welcome to the streamz.tv & androidtv4u.co.uk messaging addon.
 
-Build version 27 will be released in the next few days, updates will include.
-Moneysports fix
-NJM Soccer & NJM Live
-Elite HD Streams Tv Guide (Subscribers only)
-Soccerstreams Link
-Tv Networks (Under catchup tv)
-IPBOX Sports
-Follow Follow
-Celtic Tv
-+ Various tweets and quick links updates
+Build version 28 will be released in the next few days, updates will include.
+Updated Tv Guide
+Updated Quick Links
+Tv Guide updater remapped to include options to update links to subscriptions you may have
+with Elite, Overlord or Stealth
++ Various tweeks
 
 N.b. streamZ does not and will not be suppling any form of iptv subscription and any support requests regarding these MUST be directed towards to particular iptv provider.
