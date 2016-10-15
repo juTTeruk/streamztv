@@ -1,14 +1,7 @@
-13
+10
 |||
 Welcome to the streamz.tv & androidtv4u.co.uk messaging addon.
 
-IMPORTANT MESSAGE DO NOT IGNORE: Only applied to recent upgrades from old apps
 
-If you have recently updated from our old build/kodi updater apps and not done all the instalation steps
-INCLUDING EMAILING TO ACTIVATE your box will go off !!!
-
-Open up your old build/updater to look at the install instructions again and to obtain the correct email address to send your email address too.
-
-streamZ ( this warning does not apply to those already with streamZ only to those who should have upgraded from the old system )
 
 
