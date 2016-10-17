@@ -1,7 +1,8 @@
 12
 |||
 Welcome to the streamz.tv & androidtv4u.co.uk messaging addon.
-Any important news will be displayed here. Click return to exit this screen.
+Any important news will be displayed here. 
+Click return or exit to dismiss this screen.
 
 
 
