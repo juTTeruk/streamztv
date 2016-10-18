@@ -1,8 +1,12 @@
 12
 |||
 Welcome to the streamz.tv & androidtv4u.co.uk messaging addon.
-Tv Guide stream Links are currently down, please use the
+Tv Guide stream Links are NEVER guaranteed and are currently down, please use the
 alternatives in the sub menus and quick links.
+
+Ensure your tvguide links are always upto date by
+clicking the "Tvguide Updater" link ( under tvguide )
+and selecting "Update STANDARD stream links"  
 
 
 
