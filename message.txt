@@ -6,7 +6,7 @@ Tv Guide stream Links are NEVER guaranteed and are currently down,
 please use the alternatives in the sub menus and quick links.
 
 Ensure your tvguide links are always upto date by
-clicking the "Tvguide Updater" link ( under tvguide )
+using the "Tvguide Updater" link ( under tvguide )
 and selecting "Update STANDARD stream links"  
 
 
