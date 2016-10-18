@@ -9,6 +9,8 @@ Ensure your tvguide links are always upto date by
 using the "Tvguide Updater" link ( under tvguide )
 and selecting "Update STANDARD stream links"  
 
+Please use the exit button to dismiss this message
+
 
 
 
