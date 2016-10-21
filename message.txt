@@ -2,12 +2,7 @@
 |||
 Welcome to the streamz.tv & androidtv4u.co.uk messaging addon.
 
-Ensure your tvguide links are always upto date by
-using the "Tvguide Updater" link ( under tvguide )
-and selecting "Update STANDARD stream links"  
-
-Tv Guide stream Links are NEVER guaranteed, please also use the 
-alternatives in the sub menus and quick links for live streams.
+We will use this application to announce new updates and fixes.
 
 Please use the exit button to dismiss this message
 
